@@ -17,7 +17,7 @@ Aplikasi marketplace rental mobil menggunakan framework CodeIgniter 3. Dengan mu
 
 ##### Admin
 <p align="center">
-  <img src="https://raw.githubusercontent.com/idnorman/marketplace-rental-mobil-codeigniter3/master/admin.gif">
+  <img src="https://raw.githubusercontent.com/ZxLanz/demo/main/Admin.gif">
 </p>
 
 -----
