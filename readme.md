@@ -1,6 +1,6 @@
 <h2 align="center">Marketplace Rental Mobil (CodeIgniter 3)</h2>
 
-Aplikasi marketplace rental mobil menggunakan framework CodeIgniter 3. Dengan multi user (admin, pemilik rental dan kustomer). 
+ Aplikasi marketplace rental mobil berbasis CodeIgniter 3, dilengkapi dengan fitur CRUD untuk setiap user: admin dapat mengelola data pengguna dan mobil, pemilik rental dapat mengelola mobil dan pesanan, serta customer dapat membuat pesanan dan mengelola profil mereka. 
 
 -----
 
