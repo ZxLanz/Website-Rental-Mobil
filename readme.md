@@ -27,5 +27,5 @@ Aplikasi marketplace rental mobil menggunakan framework CodeIgniter 3. Dengan mu
 - [MySQL Database](https://www.mysql.com/ "MySQL Database")
 - [Stisla Admin Template](https://getstisla.com/ "Stisla Admin Template")
 -----
-#### Instalasi
+
 
